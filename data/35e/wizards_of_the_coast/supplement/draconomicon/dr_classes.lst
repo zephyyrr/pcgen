@@ -693,7 +693,7 @@ CLASS:Talon of Tiamat	STARTSKILLPTS:2	CSKILL:Appraise|Bluff|Concentration|Intimi
 #10ABILITY:Special Ability|AUTOMATIC|Dominate Dragon|Talon of Tiamat Dominate Dragon
 
 
-
+###Block: BROKEN PATCH
 ###Block: Dragons - Need to convert these to the new method!
 
 # Class Name	Hit Dice	Type			Max Level		Source Page		Save checks bonus															Combat bonus
